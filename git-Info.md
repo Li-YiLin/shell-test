@@ -54,3 +54,8 @@ git branch -M main
 git push -u origin main
 ```
 
+## stash my code
+```
+git stash
+```
+
