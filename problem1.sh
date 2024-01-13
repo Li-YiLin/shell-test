@@ -7,4 +7,10 @@ do
     sum=$(($sum+$i))
 done
 
+for i in `seq 67 69` 
+do
+    echo $i
+done
+
+
 echo ${sum}
